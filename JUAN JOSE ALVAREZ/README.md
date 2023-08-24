@@ -1,6 +1,6 @@
 # README MARKDOWN .
 
-¡Hola! Soy Juan Jose Alvarez Beltran, Vivo en Bogota, y puedes contactarme a través de mi correo electrónico: [juan.alvarez-b@mail.escuelaing.edu.co](mailto:juan.alvarez-b@mail.escuelaing.edu.co).
+:information_source: ¡Hola! Soy Juan Jose Alvarez Beltran, Vivo en Bogota, y puedes contactarme a través de mi correo electrónico: [juan.alvarez-b@mail.escuelaing.edu.co](mailto:juan.alvarez-b@mail.escuelaing.edu.co).
 
 ## 1.Datos Básicos.
 
@@ -21,4 +21,4 @@ En python se puede hacer la siguiente instruccion para imprimir hola mundo:
 print("¡Hola, Mundo!")
 ```
 ## 4. Learn Github imagenes 
-![principal y remoto](imagenes/learn github.png)
+![principal y remoto](../imagenes/learngithub.png)\
