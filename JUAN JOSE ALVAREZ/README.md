@@ -20,4 +20,4 @@ En python se puede hacer la siguiente instruccion para imprimir:
 # Python
 print("¡Hola, Mundo!")
 ```
-## 4. Learn Github imagenes `![principal y remoto](imagenes/learn github.png)` 
+## 4. Learn Github imagenes ![principal y remoto](imagenes/learn github.png)
