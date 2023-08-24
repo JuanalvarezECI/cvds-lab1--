@@ -14,10 +14,11 @@ Actualmente, estoy cursando la carrera de ingenieria en sistemas  [ESCUELA DE IN
 
 ## 3.Dato Curioso.
 
-En python se puede hacer la siguiente instruccion para imprimir:
+En python se puede hacer la siguiente instruccion para imprimir hola mundo:
 
 ```python
 # Python
 print("¡Hola, Mundo!")
 ```
-## 4. Learn Github imagenes ![principal y remoto](imagenes/learn github.png)
+## 4. Learn Github imagenes 
+![principal y remoto](imagenes/learn github.png)
